@@ -16,7 +16,7 @@ require (
 	github.com/go-enry/go-enry/v2 v2.8.7
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/jedib0t/go-pretty v4.3.0+incompatible
-	github.com/jmoiron/sqlx v1.3.5
+	github.com/jmoiron/sqlx v1.4.0
 	github.com/lib/pq v1.10.9
 	github.com/libgit2/git2go/v34 v34.0.0
 	github.com/mattn/go-sqlite3 v1.14.22
